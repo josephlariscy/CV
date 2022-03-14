@@ -13,9 +13,9 @@ address: "223 Clement Hall · Memphis, TN 38152"
 fontawesome: yes
 email: joseph.lariscy@memphis.edu
 github: josephlariscy
-phone: "+205 799 5396"
+phone: "(205) 799-5396"
 #web: guinness.com
-updated: yes
+#updated: no
 
 keywords: R Markdown, academic CV, template
 
@@ -25,3 +25,189 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 ---
+
+# Employment
+
+*University of Memphis*
+
+\setlength{\leftskip}{1cm}
+| Associate Professor, Department of Sociology \hfill 2021&ndash;present
+| Assistant Professor, Department of Sociology \hfill 2015&ndash;2021
+| Director of Graduate Studies, Department of Sociology \hfill 2020&ndash;present
+\setlength{\leftskip}{0pt}
+
+*Duke University*
+
+\setlength{\leftskip}{1cm}
+| NIA Postdoctoral Fellow, Duke Population Research Institute \hfill 2013&ndash;2015
+\setlength{\leftskip}{0pt}
+
+# Education
+
+PhD &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Texas at Austin \hfill 2013  
+MA &nbsp; &nbsp; Sociology &nbsp; &nbsp; University of Texas at Austin \hfill 2009  
+BA &nbsp; &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Georgia \hfill 2007
+
+# Publications
+
+Vogelsang, Eric M. and Joseph T. Lariscy. (2020). Let’s Drink to Being Socially Active: Family Characteristics, Social Participation, and Alcohol Abuse across Mid- and Later-Life. *Journal of Health and Social Behavior* 61(4): 453–469.
+
+Fatema, Kaniz and Joseph T. Lariscy. (2020). Mass Media Exposure and Maternal Healthcare Utilization in South Asia. *Social Science & Medicine–Population Health* 11: 100614.
+
+Lariscy, Joseph T., Robert A. Hummer, and Richard G. Rogers. (2020). Lung Cancer Mortality among Never-Smokers in the United States: Estimating Smoking-Attributable Mortality with Nationally Representative Data. *Annals of Epidemiology* 45: 5–11.
+
+Lariscy, Joseph T., Samia Tasmim, and Sarah Collins. (2020). Racial and Ethnic Disparities in Health. In *Encyclopedia of Gerontology and Population Aging*. Danan Gu and Matthew E. Dupre (eds.). Springer Nature Switzerland AG.
+
+Brown, Dustin C., Joseph T. Lariscy, and Lucie Kalousová. (2019). Comparability of Mortality Estimates from Social Surveys and Vital Statistics Data in the United States. *Population Research and Policy Review* 38(3): 371–401.
+
+Lariscy, Joseph T. (2019). Smoking-Attributable Mortality by Cause of Death in the United States: An Indirect Approach. *Social Science & Medicine–Population Health* 7: 100349.
+
+Lariscy, Joseph T., Robert A. Hummer, and Richard G. Rogers. (2018). Cigarette Smoking and All-Cause and Cause-Specific Adult Mortality in the United States. *Demography* 55(5): 1855–1885.
+
+Lariscy, Joseph T. (2017). Black-White Disparities in Adult Mortality: Implications of Differential Record Linkage for Understanding the Mortality Crossover. *Population Research and Policy Review* 36(1): 137–156.
+
+Lariscy, Joseph T., Claudia Nau, Glenn Firebaugh, and Robert A. Hummer. (2016). Hispanic White Differences in Lifespan Variability in the United States. *Demography* 53(1): 215–239.
+
+Lariscy, Joseph T., Robert A. Hummer, and Mark D. Hayward. (2015). Hispanic Older Adult Mortality in the United States: New Estimates and an Assessment of Factors Shaping the Hispanic Paradox. *Demography* 52(1): 1–14.
+
+Gorman, Bridget K., Joseph T. Lariscy, and Charisma Kaushik.* (2014). Gender, Acculturation, and Smoking Behaviors among U.S. Asian and Latino Immigrants. *Social Science & Medicine* 106: 110–118.
+
+Lariscy, Joseph T., Robert A. Hummer, Jessica M. Rath, Andrea C. Villanti, Mark D. Hayward, and Donna M. Vallone. (2013). Race/Ethnicity, Nativity, and Tobacco Use among U.S. Young Adults: Results from a Nationally-Representative Survey. *Nicotine & Tobacco Research* 15(8): 1417–1426.
+
+Wade, Becky, Joseph T. Lariscy, and Robert A. Hummer. (2013). Racial/Ethnic and Nativity Patterns of U.S. Adolescent and Young Adult Smoking. *Population Research and Policy Review* 32(3): 353–371.
+
+Lariscy, Joseph T. (2011). Differential Record Linkage by Hispanic Ethnicity and Age in Linked Mortality Studies: Implications for the Epidemiologic Paradox. *Journal of Aging and Health* 23(8): 1263–1284.
+
+Hummer, Robert A. and Joseph T. Lariscy. (2011). Educational Attainment and Adult Mortality. Chapter 12 (Pp. 241–262) in *International Handbook of Adult Mortality*. Richard G. Rogers and Eileen M. Crimmins (eds). Dordrecht, The Netherlands: Springer.
+
+# Revise and Resubmit
+
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin Walker. State-Level Trends in Lifespan Variability in the United States, 1960–2018: A Research Note. Revise and Resubmit at *Demography*.
+
+# Papers in Preparation
+
+Lariscy, Joseph T. “Trends in County-Level Mortality Inequality in the United States, 1980–2014.”
+
+Lariscy, Joseph T. and Eric M. Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization.”
+
+McFarland, Michael J. and Joseph T. Lariscy. “Profits over Lives: Healthcare Precarity and Mortality Risk among Insulin-Dependent Diabetics.”
+
+Ortiz-Hernandez, Vanessa, Cynthia A. Sharadin, and Joseph T. Lariscy. “Can Success of Primary Ureteroscopy in Children be Predicted?”
+
+
+# Invited Presentations
+
+“Cigarette Smoking and Cause-Specific Adult Mortality in the United States.” Federal Statistical Research Data Center (FSRDC) Presentation Series, September 22, 2021
+
+“State-Level Trends in Lifespan Variability in the United States, 1960–2014.” New Perspectives on Lifespan Inequality webinar (virtual), Southern Denmark University. January 21, 2021
+
+“Lung Cancer Mortality among Nonsmokers: Estimating Smoking-Attributable Mortality with Nationally-Representative Data.” Social Science Research Institute, Duke University. April 26, 2019
+
+“Cigarette Smoking and Cause-Specific Adult Mortality in the United States.” Department of Sociology and Center for Demography and Population Health, Florida State University. November 30, 2017
+
+“Cigarette Smoking and Cause-Specific Adult Mortality in the United States.” Department of Sociology and Aging Studies Institute, Syracuse University. February 21, 2017
+
+“Hispanic-White Disparities in Lifespan Variability in the United States.” Department of Sociology, Vanderbilt University. November 28, 2016
+
+“Cigarette Smoking and Cause-Specific Mortality in the United States.” Population, Health, and Education Center, University of Missouri. November 10, 2016
+
+“Hispanic-White Differences in Lifespan Variability.” CUNY Institute for Demographic Research, City University of New York. May 6, 2016
+
+“Hispanic Adult Mortality in the United States: New Estimates and an Assessment of Factors Shaping the Hispanic Paradox.” Department of Demography, University of Texas at San Antonio. November 10, 2014 
+
+“Racial and Ethnic Inequality in Adult Survival in the United States.” Department of Sociology, Duke University. September 12, 2014
+
+“The Significance of Differential Record Linkage for Understanding Black-White Survival Inequality.” Texas Census Research Data Center, Texas A&M University. April 18, 2013
+
+# Selected Presentations at Professional Meetings
+
+*ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
+
+Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization in the United States.” PAA, accepted to poster session, April 6–9, 2022
+
+Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization in the United States.” ASA (virtual), August 9, 2021
+
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin Walker. “State-Level Trends in Lifespan Variability in the United States between 1960 and 2014.” PAA (virtual), May 5, 2021
+
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin Walker. “State-Level Trends in Lifespan Variability in the United States between 1960 and 2014.” Accepted for presentation at 2020 PAA meeting, Washington, DC (conference canceled due to COVID-19 virus)
+
+Fatema, Kaniz and Joseph T. Lariscy. “Mass Media Exposure and Maternal Healthcare Utilization in South Asia.” Accepted for poster at 2020 PAA meeting, Washington, DC (conference canceled due to COVID-19 virus)
+
+Vogelsang, Eric and Joseph T. Lariscy. “Let’s Drink to Being Social: Family Characteristics, Social Participation, and Alcohol Abuse across Mid- and Later-Life.” Accepted for presentation at 2020 PAA meeting, Washington, DC (conference canceled due to COVID-19 virus)
+
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin Walker. “State-Level Trends in Lifespan Variability in the United States between 1960 and 2014.” Accepted for presentation at 2020 SSS meeting, Jacksonville, FL (conference canceled due to COVID-19 virus)
+
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin Walker. “State-Level Trends in Lifespan Variability in the United States between 1960 and 2014.” IAPHS, Seattle, WA, October 3, 2019
+
+Lariscy, Joseph T, Robert A. Hummer, and Richard G. Rogers. “Lung Cancer Mortality among Nonsmokers: Estimating Smoking-Attributable Mortality with Nationally-Representative Data” (poster). PAA, Austin, TX, April 11, 2019
+
+Lariscy, Joseph T, Robert A. Hummer, and Richard G. Rogers. “Lung Cancer Mortality among Nonsmokers: Estimating Smoking-Attributable Mortality with Nationally-Representative Data.” SDA, Durham, NC, October 11, 2018
+
+Lariscy, Joseph T. “Smoking-Attributable Mortality by Cause of Death: An Indirect Approach.” PAA, Denver, CO, April 26, 2018
+
+Lariscy, Joseph T. “Identifying Smoking-Attributable Causes of Death: A New Application of the Preston-Glei-Wilmoth Model.” 2017 SDA, Morgantown, WV, October 27, 2017
+
+Lariscy, Joseph T. “Paradox by Number: Mortality Compression and Rectangularization among U.S. Hispanics” (poster). PAA, Chicago, IL, April 27, 2017
+
+Lariscy, Joseph T. “Paradox by Number: Mortality Compression and Rectangularization among U.S. Hispanics.” SDA, Athens, GA, October 13, 2016
+
+Brown, Dustin C., Joseph T. Lariscy, and Lucie Kalousova. “A Comparison of Mortality Estimates from Multiple Nationally Representative Surveys and Vital Statistics Data in the United States.” PAA, Washington, DC, April 1, 2016
+
+Lariscy, Joseph T., Robert A. Hummer, Richard G. Rogers, and Charles B. Nam. “Cigarette Smoking and Cause-Specific Mortality in the United States.” PAA, Washington, DC, March 31, 2016
+
+Lariscy, Joseph T., Robert A. Hummer, Richard G. Rogers, and Charles B. Nam. “Cigarette Smoking and Cause-Specific Mortality in the United States.” SDA, San Antonio, TX, October 15, 2015
+
+Lariscy, Joseph T. “The Long Plume of Childhood: Cigarette Smoking throughout the Life Course and Racial/Ethnic Mortality Differentials” (round table). ASA, San Francisco, CA, August 19, 2014
+
+Lariscy, Joseph T. Implications of Differential Record Linkage for Understanding the Black-White Mortality Gap” (poster). PAA, Boston, MA, May 3, 2014
+
+Lariscy, Joseph T. “The Significance of Differential Record Linkage for Understanding Black-White Survival Inequality.” SDA, Montgomery, AL, October 25, 2013
+
+Lariscy, Joseph T. “The Significance of Differential Record Linkage for Understanding Black-White Survival Inequality.” ASA, New York, NY, August 11, 2013
+
+Lariscy, Joseph T., Claudia Nau, Glenn Firebaugh, and Robert A. Hummer. “Racial and Ethnic Inequality in Adult Survival: Decomposition of Age at Death Variance among U.S. Adults.” PAA, New Orleans, LA, April 11, 2013
+
+Lariscy, Joseph T., Claudia Nau, Glenn Firebaugh, and Robert A. Hummer. “Racial and Ethnic Inequality in Adult Survival: Decomposition of Age at Death Variance among U.S. Adults.” SDA, Williamsburg, VA, October 11, 2012
+
+Lariscy, Joseph T. “The Long Plume of Childhood: Cigarette Smoking throughout the Life Course and Adult Mortality Differentials.” PAA, San Francisco, CA, May 4, 2012
+
+Lariscy, Joseph T. “The Long Plume of Childhood: Cigarette Smoking throughout the Life Course and Adult Mortality Differentials.” SDA, Tallahassee, FL, October 20, 2011
+
+Lariscy, Joseph T., Kristine Hopkins, and Rachel Samsel. “Acculturation and Parent-Adolescent Communication about Sex among Mexican-Origin Families.” ASA, Las Vegas, NV, August 20, 2011
+
+Hummer, Robert A., Joseph T. Lariscy, and Mark D. Hayward. “Hispanic Adult Mortality in the United States: A Review, New Estimates, and Comparisons to Other Population Groups.” MacArthur Foundation Research Network on an Aging Society, Palo Alto, CA, February 14, 2011
+
+Lariscy, Joseph T. “Race/Ethnicity and US Adult Mortality: An Examination of Vital Status Ascertainment in the National Health Interview Survey Linked Mortality Files.” SDA, Galveston, TX, October 23, 2009
+
+Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern State.” SDA, Durham, NC, November 3, 2006
+
+# Teaching
+
+*University of Memphis*
+
+\setlength{\leftskip}{0.5cm}
+| Graduate:  
+\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{1cm}
+| SOCI 6312 – Intermediate Social Statistics (spring 2022, spring 2021, spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
+| SOCI 7851/8851 – Medical Sociology (fall 2016)  
+| SOCI 7902 – Social Demography (spring 2021, spring 2018)
+\setlength{\leftskip}{0pt}
+
+\setlength{\leftskip}{0.5cm}
+| Undergraduate:  
+\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{1cm}
+| SOCI 3311 – Social Statistics (spring 2020, fall 2019, fall 2018, fall 2017, spring 2017, fall 2016, fall 2015)  
+| SOCI 3422 – Racial and Ethnic Minorities (spring 2019, fall 2018)  
+| SOCI 3611 – Population and Society (fall 2022)  
+| SOCI 4541 – Sociology of Aging (fall 2020)  
+| SOCI 4851 – Medical Sociology (fall 2022, fall 2019, fall 2017)  
+| UNHP 1100 – Census 2020: How the United States Counts its Diverse Population (fall 2019)  
+\setlength{\leftskip}{0pt}
+
+*University of Texas at Austin*  
+\setlength{\leftskip}{1cm}
+| SOC 319 – Introduction to Social Demography (fall 2011)  
+\setlength{\leftskip}{0pt}
+
