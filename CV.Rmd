@@ -1,0 +1,27 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Joseph T. Lariscy
+
+jobtitle: "Associate Professor of Sociology, University of Memphis"
+address: "223 Clement Hall · Memphis, TN 38152"
+fontawesome: yes
+email: joseph.lariscy@memphis.edu
+github: josephlariscy
+phone: "+205 799 5396"
+#web: guinness.com
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
