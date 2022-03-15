@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.13)  14 MAR 2022 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.13)  15 MAR 2022 08:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,32 +469,30 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 119.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 119.
-[1
+LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 119.
+(c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
+) [1
 
-{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 467--471
-
- []
-
-
+{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] 
 AED: lastpage setting LastPage
-[5] (./CV.aux)
+[10] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: A0E23F8F11D12E0C7DB1D73FEE06AD30;1114.
+(rerunfilecheck)             Checksum: 16BE33E074849762BD177F536FE1FC8C;1918.
  ) 
 Here is how much of TeX's memory you used:
- 13361 strings out of 480236
- 208827 string characters out of 5893968
- 512330 words of memory out of 5000000
- 31080 multiletter control sequences out of 15000+600000
- 499918 words of font info for 77 fonts, out of 8000000 for 9000
+ 13409 strings out of 480236
+ 209736 string characters out of 5893968
+ 519585 words of memory out of 5000000
+ 31107 multiletter control sequences out of 15000+600000
+ 504228 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,76p,1191b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (5 pages, 97946 bytes).
+{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} <c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CV.pdf (10 pages, 112749 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
