@@ -305,7 +305,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 # Advising
 
-*Master’s Thesis Chair*
+## *Master’s Thesis Chair*
 
 \setlength{\leftskip}{0.5cm}
 | Current students and expected graduation
@@ -328,7 +328,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Melissa Garcia-Dominguez (2017) – PhD student, Dept of Sociology, Indiana University
 \setlength{\leftskip}{0pt}
 
-*Master’s Thesis Committee Member*
+## *Master’s Thesis Committee Member*
 
 \setlength{\leftskip}{0.5cm}
 | Current students and expected graduation
