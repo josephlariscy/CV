@@ -32,9 +32,9 @@ urlcolor: blue
 *University of Memphis*
 
 \setlength{\leftskip}{1cm}
-| Associate Professor, Department of Sociology \hfill 2021&ndash;present
-| Assistant Professor, Department of Sociology \hfill 2015&ndash;2021
-| Director of Graduate Studies, Department of Sociology \hfill 2020&ndash;present
+| Associate Professor, Department of Sociology \hfill 2021--present
+| Assistant Professor, Department of Sociology \hfill 2015--2021
+| Director of Graduate Studies, Department of Sociology \hfill 2020--present
 \setlength{\leftskip}{0pt}
 
 *Duke University*
@@ -426,7 +426,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 # Professional Memberships
 
 | American Sociological Association, 2005–present  
-\setlength{\leftskip}{1cm}
+\setlength{\leftskip}{0.75cm}
 | Sections: Aging and the Life Course; Evolution, Biology, and Society; Medical Sociology;  
 | Sociology of Population  
 \setlength{\leftskip}{0pt}
