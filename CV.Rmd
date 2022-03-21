@@ -353,10 +353,10 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 # Professional Service
 
-$\text{\underline{Reviewer}}$  
+\underline{Reviewer}  
 *American Journal of Sociology*, *Annals of Epidemiology*, *Biodemography and Social Biology*, *BMJ Open*, *Demographic Research*, *Demography*, *Epidemiology*, *Ethnicity and Health*, *Innovations in Aging*, *International Migration Review*, *Journal of Aging and Health*, *Journal of Gerontology: Series B*, *Journal of Health and Social Behavior*, *Journal of Immigrant and Minority Health*, *Journal of Racial and Ethnic Disparities*, *Nicotine and Tobacco Research*, *PLoS One*, *Population Research and Policy Review*, *Research on Aging*, *Social Forces*, *Social Science & Medicine*, *Social Science & Medicine–Population Health*, *Social Science Research*, *Sociological Quarterly*, *Sociological Science*, *Sociological Spectrum*, *Sociology of Race and Ethnicity*, *Socius*
 
-$\text{\underline{Service to University of Memphis}}$  
+\underline{Service to University of Memphis}  
 2020–present &nbsp;Director of Graduate Studies, Department of Sociology  
 2015–present &nbsp;Graduate Committee, Department of Sociology  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reviewer, Student Research Forum  
@@ -369,14 +369,14 @@ $\text{\underline{Service to University of Memphis}}$
 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Moderator, National Conference on Undergraduate Research  
 2016 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology
 
-$\text{\underline{Service to Professional Organizations}}$  
+\underline{Service to Professional Organizations}  
 2021–present &nbsp;Nominations Committee, Southern Sociological Society (3-year term)  
 2018–present &nbsp;Student Paper Competition Committee, Southern Demographic Association  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program Committee and Chair of Sub-committee on Mortality and Morbidity,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America meeting  
 2016–18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Member, Board of Directors, Southern Demographic Association (3-year term)  
 
-$\text{\underline{Service to Discipline}}$  
+\underline{Service to Discipline}  
 2021–23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Editorial Board, *Journal of Health and Social Behavior*  
 2018–present &nbsp;Member, CenSoc Advisory Panel (PI: Joshua Goldstein, UC, Berkeley)  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Presider, “Morbidity and Mortality”  
