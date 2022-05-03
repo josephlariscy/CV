@@ -99,6 +99,8 @@ Ortiz-Hernandez, Vanessa, Cynthia A. Sharadin, and Joseph T. Lariscy. “Can Suc
 
 # Invited Presentations
 
+"State-Level Trends in Lifespan Variability in the United States, 1960--2019." Department of Sociology and Center for Family and Demographic Research, Bowling Green State University, May 2, 2022
+
 “Cigarette Smoking and Cause-Specific Adult Mortality in the United States.” Federal Statistical Research Data Center (FSRDC) Presentation Series (virtual), September 22, 2021
 
 “State-Level Trends in Lifespan Variability in the United States, 1960–2014.” New Perspectives on Lifespan Inequality webinar (virtual), Southern Denmark University. January 21, 2021
@@ -125,7 +127,7 @@ Ortiz-Hernandez, Vanessa, Cynthia A. Sharadin, and Joseph T. Lariscy. “Can Suc
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization in the United States.” PAA, accepted to poster session, April 6–9, 2022
+Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Life Expectancy and Lifespan Variability in the United States” (poster). PAA, April 7, 2022
 
 Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization in the United States.” ASA (virtual), August 9, 2021
 
@@ -437,8 +439,6 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 Population Association of America, 2008–present  
 Southern Demographic Association, 2006–present  
 Southern Sociological Society, 2007–present  
-
-\newpage
 
 # References
 
