@@ -52,9 +52,9 @@ BA &nbsp; &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Georgia \hfill 2007
 # Publications
 \* = student coauthor
 
-Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (Forthcoming). State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note. *Demography*.
-
 Lariscy, Joseph T. (Forthcoming). Demographic Methods. In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah and J. Michael Ryan (eds.). Wiley.
+
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography*.
 
 Vogelsang, Eric M. and Joseph T. Lariscy. (2020). [Let’s Drink to Being Socially Active: Family Characteristics, Social Participation, and Alcohol Abuse across Mid- and Later-Life.](https://journals.sagepub.com/doi/full/10.1177/0022146520962456) *Journal of Health and Social Behavior* 61(4): 453–469.
 
@@ -85,7 +85,6 @@ Wade,* Becky, Joseph T. Lariscy, and Robert A. Hummer. (2013). [Racial/Ethnic an
 Lariscy, Joseph T. (2011). [Differential Record Linkage by Hispanic Ethnicity and Age in Linked Mortality Studies: Implications for the Epidemiologic Paradox](https://journals.sagepub.com/doi/full/10.1177/0898264311421369). *Journal of Aging and Health* 23(8): 1263–1284.
 
 Hummer, Robert A. and Joseph T. Lariscy. (2011). [Educational Attainment and Adult Mortality](https://www.researchgate.net/publication/216839888_Educational_Attainment_and_Adult_Mortality). Chapter 12 (Pp. 241–262) in *International Handbook of Adult Mortality*. Richard G. Rogers and Eileen M. Crimmins (eds). Dordrecht, The Netherlands: Springer.
-
 
 # Papers in Preparation
 
@@ -128,7 +127,7 @@ Ortiz-Hernandez, Vanessa, Cynthia A. Sharadin, and Joseph T. Lariscy. “Can Suc
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Life Expectancy and Lifespan Variability in the United States." SDA, October 2022
+Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic." SDA, October 18, 2022
 
 Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Life Expectancy and Lifespan Variability in the United States” (poster). PAA, April 7, 2022
 
@@ -196,8 +195,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Graduate:  
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
-| SOCI 6312 – Intermediate Social Statistics (spring 2022, spring 2021, spring 2020,  
-|     spring 2019, spring 2018, spring 2017, spring 2016)  
+| SOCI 6312 – Intermediate Social Statistics (spring 2023, spring 2022, spring 2021,  
+|      spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
 | SOCI 7851/8851 – Medical Sociology (fall 2016)  
 | SOCI 7902 – Social Demography (spring 2021, spring 2018)
 \setlength{\leftskip}{0pt}
@@ -315,13 +314,14 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Current students and expected graduation
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
-| Israt Jahan (2022)
+| Samira Rahman (2023)
 \setlength{\leftskip}{0pt}
 
 \setlength{\leftskip}{0.5cm}
 | Students completed and position after graduation
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
+| Israt Jahan (2022) – Adjunct Instructor, Dept of Sociology, University of Memphis
 | Sarah Collins (2020) – PhD student, Dept of Sociology, University of Cincinnati
 | Aisha Naantaanbuu (2020) – Digital Content Producer, WMC Action News 5
 | Kaniz Fatema (2019) – PhD student, Dept of Sociology, University of Iowa
@@ -338,16 +338,17 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Current students and expected graduation
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
-| Melissa Arismendy (2022)
-| Clarion Harris (2022)
+| Rifat Jahan Loran (2023)
 \setlength{\leftskip}{0pt}
 
 \setlength{\leftskip}{0.5cm}
 | Students completed and position after graduation
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
+| Melissa Arismendy (2022)
+| Clarion Harris (2022)
 | Ebenezer Kpuinen (2021)
-| Uyvonda Stewart (2021)
+| Uyvonda Stewart (2021) – Adjunct Instructor, Dept of Sociology, University of Memphis
 | Michael Topping (2020) – PhD student, Dept of Sociology, University of Wisconsin
 | Anna Church (2019) – PhD student, Dept of Sociology, Ohio State University
 | Hannah Pallotta (2019) – Research Associate, Shelby County Schools
@@ -358,10 +359,11 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 # Professional Service
 
 \underline{Reviewer}  
-*American Journal of Sociology*, *Annals of Epidemiology*, *Biodemography and Social Biology*, *BMJ Open*, *Demographic Research*, *Demography*, *Epidemiology*, *Ethnicity and Health*, *Innovations in Aging*, *International Migration Review*, *Journal of Aging and Health*, *Journal of Gerontology: Series B*, *Journal of Health and Social Behavior*, *Journal of Immigrant and Minority Health*, *Journal of Racial and Ethnic Disparities*, *Nicotine and Tobacco Research*, *PLoS One*, *Population Research and Policy Review*, *Research on Aging*, *Social Currents*, *Social Forces*, *Social Science & Medicine*, *Social Science & Medicine–Population Health*, *Social Science Research*, *Sociological Quarterly*, *Sociological Science*, *Sociological Spectrum*, *Sociology of Race and Ethnicity*, *Socius*
+*American Journal of Sociology*, *Annals of Epidemiology*, *Biodemography and Social Biology*, *BMJ Open*, *Demographic Research*, *Demography*, *Epidemiology*, *Ethnicity and Health*, *Innovations in Aging*, *International Migration Review*, *Journal of Aging and Health*, *Journal of Gerontology: Series B*, *Journal of Health and Social Behavior*, *Journal of Immigrant and Minority Health*, *Journal of Racial and Ethnic Disparities*, *Nicotine and Tobacco Research*, *PLoS One*, *Population Research and Policy Review*, *Population Studies*, *Research on Aging*, *Social Currents*, *Social Forces*, *Social Science & Medicine*, *Social Science & Medicine–Population Health*, *Social Science Research*, *Sociological Quarterly*, *Sociological Science*, *Sociological Spectrum*, *Sociology of Race and Ethnicity*, *Socius*
 
 \underline{Service to University of Memphis}  
-2022 (fall)	&nbsp; &nbsp; &nbsp; Faculty Search Committee, Department of Sociology  
+2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Webmaster, Department of Sociology  
+2022 (fall)	&nbsp; &nbsp; &nbsp; Chair, Faculty Search Committee, Department of Sociology  
 2022 (summer)	&nbsp;Postdoctoral Fellow Search Committee, Department of Sociology  
 2020–present &nbsp;Director of Graduate Studies, Department of Sociology  
 2015–present &nbsp;Graduate Committee, Department of Sociology  
@@ -372,13 +374,16 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2020 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology  
 2019 (summer)	&nbsp;Postdoctoral Fellow Search Committee, Department of Sociology  
 2018 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology  
-2017 (fall)	&nbsp; &nbsp; &nbsp; Faculty Search Committee (two tenure-track positions), Department of Sociology  
-2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Moderator, National Conference on Undergraduate Research  
+2017 (fall)	&nbsp; &nbsp; &nbsp; Faculty Search Committee (two tenure-track positions), Department of Sociology 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Moderator, National Conference on Undergraduate Research  
 2016 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology
 
 \underline{Service to Professional Organizations}  
 2022–present &nbsp;Webmaster, Southern Demographic Association  
 2021–present &nbsp;Nominations Committee, Southern Sociological Society (3-year term)  
+2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Sociology of Population, American Sociological  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
+2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Aging and the Life Course, American Sociological  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
 2018–19 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Student Paper Competition Committee, Southern Demographic Association  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program Committee and Chair of Sub-committee on Mortality and Morbidity,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America meeting  
@@ -387,6 +392,12 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 \underline{Service to Discipline}  
 2021–23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Editorial Board, *Journal of Health and Social Behavior*  
 2018–present &nbsp;Member, CenSoc Advisory Panel (PI: Joshua Goldstein, UC, Berkeley)  
+2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Organizer, “Health and Mortality”  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Sociological Association  
+2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Socioeconomic and Gender Disparities in Health”  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
+2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Discussant, “COVID-19 and Mortality”  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Co-Chair, “Biosocial Approaches to Population Health”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Co-Chair, “Old Wine in New Bottles: Tools for Applied Demographers”  
@@ -439,8 +450,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 | American Sociological Association, 2005–present  
 \setlength{\leftskip}{0.75cm}
-| Sections: Aging and the Life Course; Evolution, Biology, and Society; Medical Sociology;  
-| Sociology of Population  
+| *Sections:* Aging and the Life Course; Medical Sociology; Sociology of Population   
 \setlength{\leftskip}{0pt}
 Population Association of America, 2008–present  
 Southern Demographic Association, 2006–present  
