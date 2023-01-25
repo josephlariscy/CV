@@ -52,7 +52,7 @@ BA &nbsp; &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Georgia \hfill 2007
 # Publications
 \* = student coauthor
 
-Lariscy, Joseph T. (Forthcoming). Demographic Methods. In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah and J. Michael Ryan (eds.). Wiley.
+Lariscy, Joseph T. (Forthcoming). Demographic Methods. In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
 
 Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography*.
 
@@ -359,7 +359,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 # Professional Service
 
 \underline{Reviewer}  
-*American Journal of Sociology*, *Annals of Epidemiology*, *Biodemography and Social Biology*, *BMJ Open*, *Demographic Research*, *Demography*, *Epidemiology*, *Ethnicity and Health*, *Innovations in Aging*, *International Migration Review*, *Journal of Aging and Health*, *Journal of Gerontology: Series B*, *Journal of Health and Social Behavior*, *Journal of Immigrant and Minority Health*, *Journal of Racial and Ethnic Disparities*, *Nicotine and Tobacco Research*, *PLoS One*, *Population Research and Policy Review*, *Population Studies*, *Research on Aging*, *Social Currents*, *Social Forces*, *Social Science & Medicine*, *Social Science & Medicine–Population Health*, *Social Science Research*, *Sociological Quarterly*, *Sociological Science*, *Sociological Spectrum*, *Sociology of Race and Ethnicity*, *Socius*
+*American Journal of Sociology*, *American Sociological Review*, *Annals of Epidemiology*, *Biodemography and Social Biology*, *BMJ Open*, *Demographic Research*, *Demography*, *Epidemiology*, *Ethnicity and Health*, *Innovations in Aging*, *International Migration Review*, *Journal of Aging and Health*, *Journal of Gerontology: Series B*, *Journal of Health and Social Behavior*, *Journal of Immigrant and Minority Health*, *Journal of Racial and Ethnic Disparities*, *Nicotine and Tobacco Research*, *PLoS One*, *Population Research and Policy Review*, *Population Studies*, *Research on Aging*, *Social Currents*, *Social Forces*, *Social Science & Medicine*, *Social Science & Medicine–Population Health*, *Social Science Research*, *Sociological Quarterly*, *Sociological Science*, *Sociological Spectrum*, *Sociology of Race and Ethnicity*, *Socius*
 
 \underline{Service to University of Memphis}  
 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Webmaster, Department of Sociology  
