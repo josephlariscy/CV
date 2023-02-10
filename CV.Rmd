@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
-geometry: margin=1in
+geometry: margin = 1in
 
 title: "CV"
 author: Joseph T. Lariscy
@@ -54,7 +54,7 @@ BA &nbsp; &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Georgia \hfill 2007
 
 Lariscy, Joseph T. (Forthcoming). Demographic Methods. In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
 
-Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography*.
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography* 60(1): 1–14.
 
 Vogelsang, Eric M. and Joseph T. Lariscy. (2020). [Let’s Drink to Being Socially Active: Family Characteristics, Social Participation, and Alcohol Abuse across Mid- and Later-Life.](https://journals.sagepub.com/doi/full/10.1177/0022146520962456) *Journal of Health and Social Behavior* 61(4): 453–469.
 
@@ -124,6 +124,8 @@ Ortiz-Hernandez, Vanessa, Cynthia A. Sharadin, and Joseph T. Lariscy. “Can Suc
 # Selected Presentations at Professional Meetings
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
+
+Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic" (poster). PAA, April 14, 2023
 
 Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic." SDA, October 18, 2022
 
