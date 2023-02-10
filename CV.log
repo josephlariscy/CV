@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  25 JAN 2023 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.30)  9 FEB 2023 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-12-17> (c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-01-24> (c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -349,7 +349,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
 ) (c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box54
 ) (./CV.aux)
@@ -481,11 +481,11 @@ File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 {c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
 
 LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
-(Font)              using `T1/pplj/m/it' instead on input line 636.
+(Font)              using `T1/pplj/m/it' instead on input line 633.
 
 
 LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
-(Font)              using `T1/pplj/m/it' instead on input line 678.
+(Font)              using `T1/pplj/m/it' instead on input line 675.
 
 [7] [8] [9] 
 AED: lastpage setting LastPage
@@ -494,15 +494,15 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 50F1858ECE6C27B72D9373B887F3F713;2171.
  ) 
 Here is how much of TeX's memory you used:
- 13506 strings out of 478053
- 212081 string characters out of 5839063
- 1869787 words of memory out of 5000000
- 33371 multiletter control sequences out of 15000+600000
+ 13506 strings out of 478025
+ 212081 string characters out of 5838499
+ 1870299 words of memory out of 5000000
+ 33399 multiletter control sequences out of 15000+600000
  545975 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,76p,1191b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,76p,1191b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} <c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/jtlriscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (10 pages, 114796 bytes).
+Output written on CV.pdf (10 pages, 114655 bytes).
 PDF statistics:
  239 PDF objects out of 1000 (max. 8388607)
  197 compressed objects within 2 object streams
