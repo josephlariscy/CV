@@ -52,7 +52,7 @@ BA &nbsp; &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Georgia \hfill 2007
 # Publications
 \* = student coauthor
 
-Lariscy, Joseph T. (Forthcoming). Demographic Methods. In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
+Lariscy, Joseph T. (Forthcoming). [Demographic Methods.](https://github.com/josephlariscy/dem_methods_entry/blob/main/dem_methods_entry.pdf) In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
 
 Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography* 60(1): 1–14.
 
@@ -125,7 +125,7 @@ Ortiz-Hernandez, Vanessa, Cynthia A. Sharadin, and Joseph T. Lariscy. “Can Suc
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic" (poster). PAA, April 14, 2023
+Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability in the United States, 2019 and 2020." (poster). PAA, April 14, 2023
 
 Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic." SDA, October 18, 2022
 
@@ -198,14 +198,14 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | SOCI 6312 – Intermediate Social Statistics (spring 2023, spring 2022, spring 2021,  
 |      spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
 | SOCI 7851/8851 – Medical Sociology (fall 2016)  
-| SOCI 7902 – Social Demography (spring 2021, spring 2018)
+| SOCI 7612 – Social Demography (fall 2023, spring 2021, spring 2018)
 \setlength{\leftskip}{0pt}
 
 \setlength{\leftskip}{0.5cm}
 | Undergraduate:  
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
-| SOCI 3311 – Social Statistics (spring 2020, fall 2019, fall 2018, fall 2017, spring 2017,  
+| SOCI 3311 – Social Statistics (fall 2023, spring 2020, fall 2019, fall 2018, fall 2017, spring 2017,  
 |     fall 2016, fall2015)  
 | SOCI 3422 – Racial and Ethnic Minorities (fall 2022, spring 2019, fall 2018)  
 | SOCI 4541 – Sociology of Aging (fall 2020)  
@@ -379,6 +379,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 \underline{Service to Professional Organizations}  
 2022–present &nbsp;Webmaster, Southern Demographic Association  
+2023–present &nbsp;Chair, Nominations Committee, Southern Sociological Society  
 2021–present &nbsp;Nominations Committee, Southern Sociological Society (3-year term)  
 2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Sociology of Population, American Sociological  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
@@ -392,11 +393,13 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 \underline{Service to Discipline}  
 2021–23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Editorial Board, *Journal of Health and Social Behavior*  
 2018–present &nbsp;Member, CenSoc Advisory Panel (PI: Joshua Goldstein, UC, Berkeley)  
+2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Health and Mortality”  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Sociological Association  
 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Organizer, “Health and Mortality”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Sociological Association  
-2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Socioeconomic and Gender Disparities in Health”  
+2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Gender Disparities in Health: Mechanisms and Pathways”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
-2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Discussant, “COVID-19 and Mortality”  
+2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Discussant, “National/Subnational Comparisons of COVID-19 Mortality”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Co-Chair, “Biosocial Approaches to Population Health”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
