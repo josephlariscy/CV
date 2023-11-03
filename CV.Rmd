@@ -8,13 +8,13 @@ geometry: margin = 1in
 title: "CV"
 author: Joseph T. Lariscy
 
-jobtitle: "Associate Professor of Sociology, University of Memphis"
+jobtitle: "Associate Professor, Department of Sociology, University of Memphis"
 address: "223 Clement Hall · Memphis, TN 38152"
 fontawesome: yes
 email: joseph.lariscy@memphis.edu
-phone: (901) 678-2612
+# phone: (901) 678-2612
 github: josephlariscy
-#twitter: josephlariscy
+# twitter: JosephLariscy
 # web: josephlariscy.com
 # updated: no
 
@@ -46,6 +46,12 @@ urlcolor: blue
 
 \setlength{\leftskip}{1cm}
 | NIA Postdoctoral Fellow, Duke Population Research Institute \hfill 2013&ndash;2015
+\setlength{\leftskip}{0pt}
+
+*University of Texas at Austin*
+
+\setlength{\leftskip}{1cm}
+| Doctoral Trainee,  Population Research Center \hfill 2007&ndash;2013
 \setlength{\leftskip}{0pt}
 
 # Education
@@ -93,13 +99,17 @@ Hummer, Robert A. and Joseph T. Lariscy. (2011). [Educational Attainment and Adu
 
 # Revise and Resubmit
 
-Lariscy, Joseph T. and Israt Jahan. "Gender-Specific Trends in Educational Attainment and Self-Rated Health, 1972–2018." R&R at *American Journal of Preventive Medicine.*
+Lariscy, Joseph T. and Israt Jahan.* Gender-Specific Trends in Educational Attainment and Self-Rated Health, 1972–2018. Revise and Resubmit at *Biodemography and Social Biology.*
 
 # Papers in Preparation
 
-Lariscy, Joseph T. "Cause-of-Death Contributions to the Hispanic Paradox: Before, During, and After the COVID-19 Pandemic."
+Lariscy, Joseph T and Aggie Yellow Horse. Cause-of-Death Contributions to the Hispanic Mortality Paradox.
 
-Lariscy, Joseph T. and Eric M. Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability: Estimates from Adjusted U.S. Life Tables for Five Racial/Ethnic Populations in 2019 and 2020.”
+Lariscy, Joseph T. and Eric M. Vogelsang. Racial/Ethnic Disparities in Lifespan Variability: Estimates from Adjusted U.S. Life Tables for Five Racial/Ethnic Populations in 2019 and 2020.
+
+# Grants
+
+*Delta Revitalization through Innovation, Vision, and Equity (DRIVE)*. Subcontractor, Joseph Lariscy. Funded by the Delta Regional Authority. $40,000. 2023.
 
 # Invited Presentations
 
@@ -131,7 +141,7 @@ Lariscy, Joseph T. and Eric M. Vogelsang. “Racial/Ethnic Disparities in Lifesp
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
 
-Joseph T. Lariscy. "Cause-of-Death Contributions to the Hispanic Paradox: Before, During, and After the COVID-19 Pandemic." Accepted for presentation to SDA, October 2023
+Joseph T. Lariscy. "Cause-of-Death Contributions to the Hispanic Paradox: Before, During, and After the COVID-19 Pandemic." SDA, October 19, 2023
 
 Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability in the United States, 2019 and 2020." (poster). PAA, April 14, 2023
 
@@ -203,10 +213,11 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Graduate:  
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
-| SOCI 6312 – Intermediate Social Statistics (spring 2023, spring 2022, spring 2021,  
-|      spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
+| SOCI 7612 – Social Demography (fall 2023, spring 2021, spring 2018)  
 | SOCI 7851/8851 – Medical Sociology (fall 2016)  
-| SOCI 7612 – Social Demography (fall 2023, spring 2021, spring 2018)
+| SOCI 6312 – Intermediate Social Statistics (spring 2024, spring 2023, spring 2022,   
+|      spring 2021, spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
+
 \setlength{\leftskip}{0pt}
 
 \setlength{\leftskip}{0.5cm}
@@ -256,6 +267,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 2012 &nbsp; &nbsp; &nbsp; Doug Forbes Research Development Award, awarded by PRC Training Committee  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1,000 to conduct analyses at the Texas Census Research Data Center
+
+\newpage
 
 2011 &nbsp; &nbsp; &nbsp; Everett S. Lee Graduate Student Paper Award  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *The Long Plume of Childhood: Cigarette Smoking throughout the Life* Course and Adult  
@@ -322,7 +335,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Current students and expected graduation
 \setlength{\leftskip}{0pt}
 \setlength{\leftskip}{1cm}
-| Samira Rahman (2023)
+| Samira Rahman (2024)
 | Ivonne Amill-Rosario (2024)
 | Purba Bhattacharjee (2024)
 \setlength{\leftskip}{0pt}
@@ -364,7 +377,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Anna Church (2019) – PhD student, Dept of Sociology, Ohio State University
 | Hannah Pallotta (2019) – Research Associate, Shelby County Schools
 | Samia Tasmim (2019) – PhD student, Dept of Sociology, Stony Brook University
-| Krista Wright Thayer (2018) – Guest Educator, Enriched Schools
+| Krista Wright Thayer (2018) – PhD student, Schol of Urban Affiars and Public Policy, University of Memphis
 \setlength{\leftskip}{0pt}
 
 # Professional Service
@@ -395,7 +408,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 \underline{Service to Professional Organizations}  
 2022–present &nbsp;Webmaster, Southern Demographic Association   
-2021–present &nbsp;Nominations Committee, Southern Sociological Society (3-year term)  
+2021–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Nominations Committee, Southern Sociological Society  
 2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Sociology of Population, American Sociological  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
 2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Aging and the Life Course, American Sociological  
@@ -403,7 +416,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2018–19 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Student Paper Competition Committee, Southern Demographic Association  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program Committee and Chair of Sub-committee on Mortality and Morbidity,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America meeting  
-2016–18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Member, Board of Directors, Southern Demographic Association (3-year term)  
+2016–18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Member, Board of Directors, Southern Demographic Association (three-year term)  
 
 \underline{Service to Discipline}  
 2021–23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Editorial Board, *Journal of Health and Social Behavior*  
@@ -463,6 +476,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Undergraduates  
 2010 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program Committee, Southern Demographic Association  
 2010 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Local Arrangements Committee, Population Association of America  
+
+\newpage
 
 # Professional Memberships
 
