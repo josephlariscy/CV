@@ -6,14 +6,14 @@ output:
 geometry: margin = 1in
 
 title: "CV"
-author: Joseph T. Lariscy
+author: Joseph Tyler Lariscy
 
 jobtitle: "Associate Professor, Department of Sociology, Texas A&M University"
     
-address: "4351 TAMU · 2935 Research Parkway, Suite 311 · College Station, TX 77843"
-email: lariscy@tamu.edu
+address: "351 WCSS · 2935 Research Parkway, Suite 311 · College Station, TX 77843"
+email: jlariscy@tamu.edu
 github: josephlariscy
-# phone: (901) 678-2612
+# phone: (205) 799.5396
 # twitter: JosephLariscy
 # web: josephlariscy.com
 # updated: no
@@ -40,7 +40,15 @@ urlcolor: blue
 
 \setlength{\leftskip}{1cm}
 | Associate Professor, Department of Sociology \hfill 2024--present
-\setlength{\leftskip}{0pt}
+| Associate Director, Texas Federal Statistical Research Data Center \hfill 2025--present
+| Faculty Affiliate, Race and Ethnic Studies Institute (RESI) \hfill 2024--present
+\setlength{\leftskip}{0cm}
+
+*University of Texas at Austin*
+
+\setlength{\leftskip}{1cm}
+| External Faculty Affiliate, Population Research Center \hfill 2024--present
+\setlength{\leftskip}{0cm}
 
 *University of Memphis*
 
@@ -48,13 +56,13 @@ urlcolor: blue
 | Associate Professor, Department of Sociology \hfill 2021--2024
 | Assistant Professor, Department of Sociology \hfill 2015--2021
 | Director of Graduate Studies, Department of Sociology \hfill 2020--2024
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 *Duke University*
 
 \setlength{\leftskip}{1cm}
 | NIA Postdoctoral Fellow, Duke Population Research Institute \hfill 2013--2015
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 # Education
 
@@ -65,7 +73,9 @@ BA &nbsp; &nbsp; &nbsp;Sociology &nbsp; &nbsp; University of Georgia \hfill 2007
 # Publications
 \* = student coauthor
 
-Lariscy, Joseph T. (Forthcoming). [Demographic Methods.](https://osf.io/preprints/socarxiv/mc6hv/) In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
+Lariscy, Joseph T. and Israt Jahan.* (2025). [Sex-Specific Trends in Educational Attainment and Self-Rated Health, 1972–2018.](https://www.tandfonline.com/doi/full/10.1080/19485565.2024.2448941) *Biodemography and Social Biology* 70(1): 57–64.
+
+Lariscy, Joseph T. (2025). [Demographic Methods.](https://osf.io/preprints/socarxiv/mc6hv/) In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
 
 Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography* 60(1): 1–14.
 
@@ -99,21 +109,17 @@ Lariscy, Joseph T. (2011). [Differential Record Linkage by Hispanic Ethnicity an
 
 Hummer, Robert A. and Joseph T. Lariscy. (2011). [Educational Attainment and Adult Mortality](https://www.researchgate.net/publication/216839888_Educational_Attainment_and_Adult_Mortality). Chapter 12 (Pp. 241–262) in *International Handbook of Adult Mortality*. Richard G. Rogers and Eileen M. Crimmins (eds). Dordrecht, The Netherlands: Springer.
 
-# Revise and Resubmit
-
-Lariscy, Joseph T. and Israt Jahan.* Gender-Specific Trends in Educational Attainment and Self-Rated Health, 1972–2018. Revise and Resubmit at *Biodemography and Social Biology.*
-
 # Papers in Preparation
 
-Lariscy, Joseph T and Aggie Yellow Horse. Cause-of-Death Contributions to the Hispanic Mortality Paradox.
+Lariscy, Joseph T. and Aggie Yellow Horse. Cause-of-Death Contributions to the Hispanic Mortality Paradox.
 
-Lariscy, Joseph T. and Eric M. Vogelsang. Racial/Ethnic Disparities in Lifespan Variability: Estimates from Adjusted U.S. Life Tables for Five Racial/Ethnic Populations in 2019 and 2020.
+Lariscy, Joseph T. and Eric M. Vogelsang. Racial/Ethnic Disparities in Lifespan Variability.
 
 # Grants and Contracts
 
 *Racial/Ethnic Disparities in Longitudinal Mortality Follow-up among Older Americans*. Principal Investigator, Joseph Lariscy. Funded by National Institute on Aging, Network for Innovative Methods in Longitudinal Aging Studies (NIMLAS) (Award 1 R24 AG077012-01). $63,893. 2024--2025.
 
-*Delta Revitalization through Innovation, Vision, and Equity (DRIVE)*. Subcontractor, Joseph Lariscy. Funded by the Delta Regional Authority. $40,000. 2023.
+*Delta Revitalization through Innovation, Vision, and Equity (DRIVE)*. Subcontractor, Joseph Lariscy. Funded by Delta Regional Authority, U.S. Department of Labor. $40,000. 2023--2024.
 
 # Invited Presentations
 
@@ -146,6 +152,12 @@ Lariscy, Joseph T. and Eric M. Vogelsang. Racial/Ethnic Disparities in Lifespan 
 # Selected Presentations at Professional Meetings
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
+
+Lariscy, Joseph T. and Cynthia Cisneros Franco. "Differential Record Linkage and Implications for Racial/Ethnic and Foreign-born/Native-born Disparities in Adult Mortality." PAA, April 11, 2025
+
+Lariscy, Joseph T. and Israt Jahan. "Gender-Specific Trends in Educational Attainment and Self-Rated Health, 1972–2018" (poster). PAA, April 18, 2024
+
+Joseph T. Lariscy and Aggie Yellow Horse. “Cause-of-Death Contributions to the Hispanic Advantage in Life Expectancy" (poster). PAA, April 18, 2024
 
 Joseph T. Lariscy and Aggie Yellow Horse. “Cause-of-Death Contributions to the Hispanic Advantage in Life Expectancy.” SDA, October 19, 2023
 
@@ -219,26 +231,37 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 *Texas A&M University*
 
+\setlength{\leftskip}{0.5cm}
+| Graduate:  
+\setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
+| SOCI 622: Social Demography (spring 2026)  
 | SOCI 642: Fertility and Mortality (fall 2024)  
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
+
+\setlength{\leftskip}{0.5cm}
+| Undergraduate:  
+\setlength{\leftskip}{0cm}
+\setlength{\leftskip}{1cm}
+| SOCI 420: Advanced Methods of Social Research (spring 2025)  
+| SOCI 312: Population and Society (fall 2025, spring 2025)  
+\setlength{\leftskip}{0cm}
 
 *University of Memphis*
 
 \setlength{\leftskip}{0.5cm}
 | Graduate:  
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
 | SOCI 7612: Social Demography (fall 2023, spring 2021, spring 2018)  
 | SOCI 7851/8851: Medical Sociology (fall 2016)  
 | SOCI 6312: Intermediate Social Statistics (spring 2024, spring 2023, spring 2022,   
 |      spring 2021, spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
-
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 \setlength{\leftskip}{0.5cm}
 | Undergraduate:  
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
 | SOCI 3311: Social Statistics (fall 2023, spring 2020, fall 2019, fall 2018, fall 2017, 
 |     spring 2017, fall 2016, fall2015)  
@@ -246,15 +269,17 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | SOCI 4541: Sociology of Aging (fall 2020)  
 | SOCI 4851: Medical Sociology (fall 2022, fall 2019, fall 2017)  
 | UNHP 1100: Census 2020: How the United States Counts its Diverse Population (fall 2019)  
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 *University of Texas at Austin*
 
 \setlength{\leftskip}{1cm}
 | SOC 319: Introduction to Social Demography (fall 2011)  
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 # Honors and Awards
+
+2024-25	&nbsp;Scholar Strategy Network Health Equity Scholars Program (HESP) Cohort  
 
 2021 &nbsp; &nbsp; &nbsp; Professional Development Assignment, University of Memphis  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research leave for Fall 2021 semester
@@ -285,7 +310,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1,000 to conduct analyses at the Texas Census Research Data Center
 
 2011 &nbsp; &nbsp; &nbsp; Everett S. Lee Graduate Student Paper Award  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *The Long Plume of Childhood: Cigarette Smoking throughout the Life* Course and Adult  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *The Long Plume of Childhood: Cigarette Smoking throughout the Life Course and Adult*  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Mortality Differentials*  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Awarded by the Southern Demographic Association
 
@@ -341,22 +366,28 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2006 &nbsp; &nbsp; &nbsp; National Science Foundation Research Experience for Undergraduates (10 weeks)  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Research Center, University of Texas at Austin
 
-# Advising
+# Advising - Texas A&M University
+
+## *Dissertation Committee*
+\setlength{\leftskip}{1cm}
+| Nereyda Ortiz Osejo 
+\setlength{\leftskip}{0cm}
+
+## *Master's Thesis Chair*
+\setlength{\leftskip}{1cm}
+| Cynthia Cisneros Franco
+\setlength{\leftskip}{0cm}
+
+# Advising - University of Memphis
 
 ## *Master’s Thesis Chair*
 
 \setlength{\leftskip}{0.5cm}
-| Current students and expected graduation
-\setlength{\leftskip}{0pt}
-\setlength{\leftskip}{1cm}
-| Purba Bhattacharjee (2024)
-| Samira Rahman (2024)
-\setlength{\leftskip}{0pt}
-
-\setlength{\leftskip}{0.5cm}
 | Students completed and position after graduation
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
+| Purba Bhattacharjee (2024) – PhD student, Dept of Sociology, University of Tennessee
+| Samira Rahman (2024) - PhD student, Dept of Sociology University of Oklahoma
 | Israt Jahan (2022) – PhD student, Dept of Sociology, University of Illinois, Urbana-  
 |     Champaign
 | Sarah Collins (2020) – PhD student, Dept of Sociology, University of Cincinnati
@@ -367,17 +398,25 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Daisy Angeles (2017) – Bilingual Community Outreach Specialist, Freedom Preparatory  
 |     Academy Charter Schools
 | Melissa Garcia-Dominguez (2017) – PhD student, Dept of Sociology, Indiana University
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 ## *Master’s Thesis Committee Member*
 
 \setlength{\leftskip}{0.5cm}
+| Students in progress
+\setlength{\leftskip}{0cm}
+\setlength{\leftskip}{1cm}
+| Golam Morshed  
+| Fahima Sultana  
+\setlength{\leftskip}{0cm}
+
+\setlength{\leftskip}{0.5cm}
 | Students completed and position after graduation
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
 | Rifat Jahan Loran (2023) - PhD student, School of Urban Affairs and Public Policy,  
 |     University of Memphis
-| Melissa Arismendy (2022) - Research Program Engagement Coordinatory, FiftyForward
+| Melissa Arismendy (2022) - Research Program Engagement Coordinator, FiftyForward
 | Clarion Harris (2022)
 | Ebenezer Kpuinen (2021)
 | Uyvonda Stewart (2021) – Adjunct Instructor, Dept of Sociology, University of Memphis
@@ -387,24 +426,28 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Samia Tasmim (2019) – PhD student, Dept of Sociology, Stony Brook University
 | Krista Wright Thayer (2018) – PhD student, School of Urban Affairs and Public Policy,  
 |     University of Memphis
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 
 # Professional Service
 
 \underline{Reviewer}  
 *American Journal of Sociology*, *American Sociological Review*, *Annals of Epidemiology*, *Biodemography and Social Biology*, *BMJ Open*, *Demographic Research*, *Demography*, *Epidemiology*, *Ethnicity and Health*, *Innovations in Aging*, *International Migration Review*, *Journal of Aging and Health*, *Journal of Gerontology: Series B*, *Journal of Health and Social Behavior*, *Journal of Immigrant and Minority Health*, *Journal of Racial and Ethnic Disparities*, *Nicotine and Tobacco Research*, *PLoS One*, *Population Research and Policy Review*, *Population Studies*, *Research on Aging*, *Social Currents*, *Social Forces*, *Social Science & Medicine*, *Social Science & Medicine–Population Health*, *Social Science Research*, *Sociological Quarterly*, *Sociological Science*, *Sociological Spectrum*, *Sociology of Race and Ethnicity*, *Socius*
 
+\underline{Service to Texas A\&M University}  
+2025–present &nbsp;Executive Committee, Department of Sociology  
+2024 &nbsp; &nbsp; &nbsp; &nbsp; Chair, Faculty Search Committee (Demography and Health), Department of Sociology  
+2024–present &nbsp;Graduate Program and Evaluation Committee, Department of Sociology  
+
 \underline{Service to University of Memphis}  
 2022–2024 &nbsp;Webmaster, Department of Sociology  
-2023 (fall)	&nbsp; &nbsp; &nbsp; Member, Faculty Search Committee, Department of Sociology  
+2020–2024 &nbsp;Director of Graduate Studies, Department of Sociology  
+2015–2024 &nbsp;Graduate Committee, Department of Sociology  
+2023 (fall)	&nbsp; &nbsp; &nbsp; Member, Faculty Search Committee (Theory), Department of Sociology  
 2023 (summer)	&nbsp;Chair, Teaching Faculty Search Committee (two positions), Department of  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sociology  
 2023 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology  
-2022 (fall)	&nbsp; &nbsp; &nbsp; Chair, Faculty Search Committee, Department of Sociology  
+2022 (fall)	&nbsp; &nbsp; &nbsp; Chair, Faculty Search Committee (Race), Department of Sociology  
 2022 (summer)	&nbsp;Postdoctoral Fellow Search Committee, Department of Sociology  
-2020–2024 &nbsp;Director of Graduate Studies, Department of Sociology  
-2015–2024 &nbsp;Graduate Committee, Department of Sociology  
-2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reviewer, Student Research Forum  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Graduate Awards Sub-committee, Graduate Council  
 2021 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology  
 2020 (fall)	&nbsp; &nbsp; &nbsp; Comprehensive Exam Committee, Department of Sociology  
@@ -416,22 +459,29 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2016 (spring)	&nbsp;Comprehensive Exam Committee, Department of Sociology
 
 \underline{Service to Professional Organizations}  
-2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; President-Elect, Southern Demographic Association  
+2026 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program Committee on Mortality and Morbidity,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America meeting  
+2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; President, Southern Demographic Association  
+2025-27 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Memorial Service Committee, Population Association of America  
+2024-27 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Disseration Award Selection Committee, American Sociological Association  
 2022–present &nbsp;Webmaster, Southern Demographic Association   
 2021–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Nominations Committee, Southern Sociological Society  
 2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Sociology of Population, American Sociological  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
 2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Aging and the Life Course, American Sociological  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
-2018–19 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Student Paper Competition Committee, Southern Demographic Association  
 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program Committee and Chair of Sub-committee on Mortality and Morbidity,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America meeting  
+2018–19 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Student Paper Competition Committee, Southern Demographic Association  
 2016–18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Member, Board of Directors, Southern Demographic Association (three-year term)  
 
 \underline{Service to Discipline}  
+2024–present &nbsp;Associate Editor, *Population Research and Policy Review*  
 2024–present &nbsp;Editorial Board, *Contexts*  
 2021–23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Editorial Board, *Journal of Health and Social Behavior*  
 2018–present &nbsp;Member, CenSoc Advisory Panel (PI: Joshua Goldstein, UC, Berkeley)  
+2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Population Aging”  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Southern Demographic Association  
 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Educational Inequality in Health and Mortality”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America  
 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Chair, “Health and Mortality”  
@@ -495,7 +545,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | American Sociological Association, 2005–present  
 \setlength{\leftskip}{0.75cm}
 | *Sections:* Sociology of Population; Aging and the Life Course; Medical Sociology  
-\setlength{\leftskip}{0pt}
+\setlength{\leftskip}{0cm}
 Population Association of America, 2008–present  
 Southern Demographic Association, 2006–present  
 Southern Sociological Society, 2007–present  
