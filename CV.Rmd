@@ -1,12 +1,12 @@
 ---
+title: "CV"
 output: 
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
 geometry: margin = 1in
 
-title: "CV"
-author: Joseph Tyler Lariscy
+author: Joseph T. Lariscy
 
 jobtitle: "Associate Professor, Department of Sociology, Texas A&M University"
     
