@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.11)  11 MAR 2026 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.27)  27 MAR 2026 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -488,7 +488,7 @@ LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
 
 
 LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
-(Font)              using `T1/pplj/m/it' instead on input line 795.
+(Font)              using `T1/pplj/m/it' instead on input line 792.
 
 
 LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
@@ -496,14 +496,9 @@ LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
 
 
 LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
-(Font)              using `T1/pplj/m/it' instead on input line 816.
+(Font)              using `T1/pplj/m/it' instead on input line 838.
 
-[9]
-
-LaTeX Font Warning: Font shape `T1/pplj/m/scit' undefined
-(Font)              using `T1/pplj/m/it' instead on input line 850.
-
-[10] [11] [12] [13] [14] 
+[9] [10] [11] [12] [13] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./CV.aux)
  ***********
@@ -511,21 +506,21 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 8FAE3123DBE4B060784BB0AEB53D6E73;4045.
+(rerunfilecheck)             Checksum: 1AE4011A11AEE4EC4BFC49012CCFC2EC;3709.
  ) 
 Here is how much of TeX's memory you used:
- 13601 strings out of 469515
- 209994 string characters out of 5467662
- 648452 words of memory out of 5000000
- 42011 multiletter control sequences out of 15000+600000
+ 13593 strings out of 469515
+ 209813 string characters out of 5467938
+ 652335 words of memory out of 5000000
+ 42007 multiletter control sequences out of 15000+600000
  657743 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,12n,79p,1191b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/jlariscy/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/jlariscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/jlariscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/jlariscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/jlariscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/jlariscy/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (14 pages, 117913 bytes).
+Output written on CV.pdf (13 pages, 116968 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 39 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
