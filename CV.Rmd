@@ -83,7 +83,7 @@ Lariscy, Joseph T. and Israt Jahan.* (2025). [Sex-Specific Trends in Educational
 
 Lariscy, Joseph T. (2025). [Demographic Methods.](https://osf.io/preprints/socarxiv/mc6hv/) In *The Wiley-Blackwell Encyclopedia of Health, Illness, Behavior, and Society, Second Edition.* William C. Cockerham, Jonathan Gabe, Stella Quah, and J. Michael Ryan (eds.). Wiley.
 
-Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker. (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography* 60(1): 1–14.
+Brown, Dustin C., Joseph T. Lariscy, and Benjamin H. Walker.* (2023). [State-Level Trends in Lifespan Variability in the United States, 1960–2019: A Research Note.](https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-10423884/342894/State-Level-Trends-in-Lifespan-Variability-in-the) *Demography* 60(1): 1–14.
 
 Vogelsang, Eric M. and Joseph T. Lariscy. (2020). [Let’s Drink to Being Socially Active: Family Characteristics, Social Participation, and Alcohol Abuse across Mid- and Later-Life.](https://journals.sagepub.com/doi/full/10.1177/0022146520962456) *Journal of Health and Social Behavior* 61(4): 453–469.
 
@@ -93,7 +93,7 @@ Lariscy, Joseph T., Robert A. Hummer, and Richard G. Rogers. (2020). [Lung Cance
 
 Lariscy, Joseph T., Samia Tasmim,* and Sarah Collins.* (2020). [Racial and Ethnic Disparities in Health](https://www.researchgate.net/publication/342352707_Racial_and_Ethnic_Disparities_in_Health). In *Encyclopedia of Gerontology and Population Aging*. Danan Gu and Matthew E. Dupre (eds.). Springer Nature Switzerland AG.
 
-Brown, Dustin C., Joseph T. Lariscy, and Lucie Kalousová. (2019). [Comparability of Mortality Estimates from Social Surveys and Vital Statistics Data in the United States](https://link.springer.com/article/10.1007/s11113-018-9505-1). *Population Research and Policy Review* 38(3): 371–401.
+Brown, Dustin C., Joseph T. Lariscy, and Lucie Kalousová.* (2019). [Comparability of Mortality Estimates from Social Surveys and Vital Statistics Data in the United States](https://link.springer.com/article/10.1007/s11113-018-9505-1). *Population Research and Policy Review* 38(3): 371–401.
 
 Lariscy, Joseph T. (2019). [Smoking-Attributable Mortality by Cause of Death in the United States: An Indirect Approach](https://www.sciencedirect.com/science/article/pii/S2352827318302118?via%3Dihub). *Social Science & Medicine–Population Health* 7: 100349.
 
@@ -179,21 +179,21 @@ Lariscy, Joseph T. and Cynthia Cisneros Franco. "Differential Record Linkage and
 
 Lariscy, Joseph T. and Israt Jahan. "Gender-Specific Trends in Educational Attainment and Self-Rated Health, 1972–2018" (poster). PAA, April 18, 2024
 
-Joseph T. Lariscy and Aggie Yellow Horse. “Cause-of-Death Contributions to the Hispanic Advantage in Life Expectancy" (poster). PAA, April 18, 2024
+Lariscy, Joseph T. and Aggie Yellow Horse. “Cause-of-Death Contributions to the Hispanic Advantage in Life Expectancy" (poster). PAA, April 18, 2024
 
-Joseph T. Lariscy and Aggie Yellow Horse. “Cause-of-Death Contributions to the Hispanic Advantage in Life Expectancy.” SDA, October 19, 2023
+Lariscy, Joseph T. and Aggie Yellow Horse. “Cause-of-Death Contributions to the Hispanic Advantage in Life Expectancy.” SDA, October 19, 2023
 
 Rahman, Samira and Joseph T. Lariscy. “Religious Affiliation and Obesity among Immigrants to the United States” (poster). SDA, October 19, 2023
 
 Bhattacharjee, Purba and Joseph Lariscy. “The Relationship between Gun Violence and the Number of Gun Laws among U.S. States.” SDA, October 20, 2023
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability in the United States, 2019 and 2020." (poster). PAA, April 14, 2023
+Lariscy, Joseph T. and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability in the United States, 2019 and 2020." (poster). PAA, April 14, 2023
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic." SDA, October 18, 2022
+Lariscy, Joseph T. and Eric Vogelsang. “Racial/Ethnic Disparities in Lifespan Variability before and during the COVID-19 Pandemic." SDA, October 18, 2022
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Life Expectancy and Lifespan Variability in the United States” (poster). PAA, April 7, 2022
+Lariscy, Joseph T. and Eric Vogelsang. “Racial/Ethnic Disparities in Life Expectancy and Lifespan Variability in the United States” (poster). PAA, April 7, 2022
 
-Joseph T. Lariscy and Eric Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization in the United States.” ASA (virtual), August 9, 2021
+Lariscy, Joseph T. and Eric Vogelsang. “Racial/Ethnic Disparities in Mortality Compression and Rectangularization in the United States.” ASA (virtual), August 9, 2021
 
 Brown, Dustin C., Joseph T. Lariscy, and Benjamin Walker. “State-Level Trends in Lifespan Variability in the United States between 1960 and 2014.” PAA (virtual), May 5, 2021
 
@@ -268,8 +268,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Undergraduate:  
 \setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
-| SOCI 420: Advanced Methods of Social Research (spring 2025)  
 | SOCI 312: Population and Society (fall 2025, spring 2025)  
+| SOCI 420: Advanced Methods of Social Research (spring 2025)  
 \setlength{\leftskip}{0cm}
 
 &nbsp;
@@ -280,10 +280,10 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Graduate:  
 \setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
-| SOCI 7612: Social Demography (fall 2023, spring 2021, spring 2018)  
-| SOCI 7851/8851: Medical Sociology (fall 2016)  
 | SOCI 6312: Intermediate Social Statistics (spring 2024, spring 2023, spring 2022,   
 |      spring 2021, spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
+| SOCI 7612: Social Demography (fall 2023, spring 2021, spring 2018)  
+| SOCI 7851/8851: Medical Sociology (fall 2016)  
 \setlength{\leftskip}{0cm}
 
 \setlength{\leftskip}{0.5cm}
@@ -317,7 +317,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 2020 &nbsp; &nbsp; &nbsp; Open Access Grant; Fine Arts, Humanities, & Social Science Pilot Program;  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Memphis  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3,270 for Gold Open Access fees
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3,270 for Open Access fees
 
 2015–16	&nbsp;Professional Development Support, Carolina Population Center,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of North Carolina-Chapel Hill  
