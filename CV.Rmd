@@ -43,6 +43,7 @@ urlcolor: blue
 \setlength{\leftskip}{1cm}
 | Associate Professor, Department of Sociology \hfill 2024--present
 | Associate Director, Texas Federal Statistical Research Data Center \hfill 2025--present
+| Interim Director, Texas Federal Statistical Research Data Center \hfill 2025--2026
 | Faculty Affiliate, Race and Ethnic Studies Institute (RESI) \hfill 2024--present
 \setlength{\leftskip}{0cm}
 
@@ -119,25 +120,27 @@ Hummer, Robert A. and Joseph T. Lariscy. (2011). [Educational Attainment and Adu
 
 # Papers in Preparation
 
-Lariscy, Joseph T. and Aggie Yellow Horse. Cause-of-Death Contributions to the Hispanic Mortality Paradox.
-
-Lariscy, Joseph T. and Eric M. Vogelsang. Racial/Ethnic Disparities in Lifespan Variability.
+Lariscy, Joseph T. and Eric M. Vogelsang. Race/Ethnicity and Lifespan Inequality in the United States.
 
 Lariscy, Joseph T., Rafia Akter,* Dustin Brown, and Benjamin Walker. Trends in Lifespan Variability among Canadian Provinces and Territories.
 
-Suhel, Golam,* Wesley James, and Joseph T. Lariscy. Household Food Insecurity Status and Chronic Physical Health Conditions among Adults in the United States, 2019--2023.
+Suhel, Golam,* Joseph T. Lariscy, Wesley James, and Nayeem Hasan.* Social Patterning of Household Food Insecurity and Chronic Physical Health Conditions in the United States.
 
 &nbsp;
 
 # Grants and Contracts
 
-*Racial/Ethnic Disparities in Longitudinal Mortality Follow-up among Older Americans*. Principal Investigator, Joseph Lariscy. Funded by National Institute on Aging, Network for Innovative Methods in Longitudinal Aging Studies (NIMLAS) (Award 1 R24 AG077012-01). $63,893. 2024--2025.
+*Racial/Ethnic Disparities in Longitudinal Mortality Follow-up among Older Americans*. Principal Investigator, Joseph Lariscy. Funded by National Institute on Aging, Network for Innovative Methods in Longitudinal Aging Studies (NIMLAS) (Award 1 R24 AG077012-01). $63,893. 2024--2026.
 
 *Delta Revitalization through Innovation, Vision, and Equity (DRIVE)*. Subcontractor, Joseph Lariscy. Funded by Delta Regional Authority, U.S. Department of Labor. $30,000. 2023--2024.
 
 &nbsp;
 
 # Invited Presentations
+
+"Race/Ethnicity and Lifespan Inequality in the United States." Department of Sociology and Center for Demography and Population Health, Florida State University, October 23, 2026
+
+"Conducting Research using Restricted Federal Statistical Data." Department of Economics, Baylor University, May 22, 2026
 
 "Conducting Research using Restricted Federal Statistical Data." Office for Research and Innovation, University of Texas at San Antonio, December 4, 2025
 
@@ -172,6 +175,8 @@ Suhel, Golam,* Wesley James, and Joseph T. Lariscy. Household Food Insecurity St
 # Selected Presentations at Professional Meetings
 
 *ASA = American Sociological Association, IAPHS = Interdisciplinary Association for Population Health Sciences, PAA = Population Association of America, SDA = Southern Demographic Association, SSS = Southern Sociological Society*
+
+Brown, Dustin C., Benjamin H. Walker, Chi-Tsun Chiu, and Joseph T. Lariscy. "State-Level Trends in Disability Free Life Expectancy in the United States Between 2010 and 2024." SDA, October 9, 2026
 
 Lariscy, Joseph T. "Where is Federal Statistical Data Headed? Federal Statistical Research Data Centers and Changes in the Federal Statistical System" (Panel). SDA, October 17, 2025
 
@@ -249,7 +254,7 @@ Lariscy, Joseph T. “Race/Ethnicity and US Adult Mortality: An Examination of V
 
 Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern State.” SDA, Durham, NC, November 3, 2006
 
-&nbsp;
+\newpage
 
 # Teaching
 
@@ -268,8 +273,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Undergraduate:  
 \setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
-| SOCI 312: Population and Society (fall 2025, spring 2025)  
-| SOCI 420: Advanced Methods of Social Research (spring 2025)  
+| SOCI 312: Population and Society (spring 2027, fall 2025, spring 2025)  
+| SOCI 420: Advanced Methods of Social Research (spring 2027, spring 2025)  
 \setlength{\leftskip}{0cm}
 
 &nbsp;
@@ -283,7 +288,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | SOCI 6312: Intermediate Social Statistics (spring 2024, spring 2023, spring 2022,   
 |      spring 2021, spring 2020, spring 2019, spring 2018, spring 2017, spring 2016)  
 | SOCI 7612: Social Demography (fall 2023, spring 2021, spring 2018)  
-| SOCI 7851/8851: Medical Sociology (fall 2016)  
+| SOCI 7851: Medical Sociology (fall 2016)  
 \setlength{\leftskip}{0cm}
 
 \setlength{\leftskip}{0.5cm}
@@ -320,8 +325,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3,270 for Open Access fees
 
 2015–16	&nbsp;Professional Development Support, Carolina Population Center,  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of North Carolina-Chapel Hill  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1,950 to conduct analyses at the Triangle Federal Statistical Research Data Center
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of North Carolina at Chapel Hill  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1,950 to conduct analyses in the Triangle Federal Statistical Research Data Center
 
 2015 &nbsp; &nbsp; &nbsp; IPUMS Health Surveys Research Award, Minnesota Population Center  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Hispanic Older Adult Mortality in the United States: New Estimates and an Assessment of*  
@@ -364,10 +369,12 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2005–06	&nbsp;President, Alpha Kappa Delta Sociological Honor Society  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Department of Sociology, University of Georgia
 
+&nbsp;
+
 # Professional Development
 
-2013–22 &nbsp;Research Associate, Federal Statistical Research Data Centers  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Special Sworn Status granted July 2013  
+2013– &nbsp; &nbsp; Research Associate, Federal Statistical Research Data Centers  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Special Sworn Status granted 2013  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Locations: Texas RDC (College Station, TX), Triangle RDC (Durham, NC), and  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Missouri RDC (Columbia, MO)  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Center for Economic Studies, U.S. Census Bureau, U.S. Department of Commerce  
@@ -403,6 +410,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 ## *Dissertation Committee Chair*
 \setlength{\leftskip}{1cm}
+| Rafia Akter  
 | Cynthia Cisneros Franco  
 | JuYin Helen Wong  
 \setlength{\leftskip}{0cm}
@@ -416,6 +424,7 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 ## *Preliminary Exams Committee Chair*
 \setlength{\leftskip}{1cm}
+| Rafia Akter  
 | Cynthia Cisneros Franco
 | JuYin Helen Wong
 \setlength{\leftskip}{0cm}
@@ -458,7 +467,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 | Students completed and position after graduation
 \setlength{\leftskip}{0cm}
 \setlength{\leftskip}{1cm}
-| Fahima Sultana (2025)  
+| Fahima Sultana (2025) - PhD student, Department of Community Research and Action,  
+|     Binghamton University  
 | Golam Morshed (2025) - PhD student, Department of Sociology, University of Albany  
 | Rifat Jahan Loran (2023) - PhD student, School of Urban Affairs and Public Policy,  
 |     University of Memphis
@@ -515,6 +525,10 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2016 (spring)	&nbsp; &nbsp; Comprehensive Exam Committee, Department of Sociology
 
 \underline{Service to Professional Organizations}  
+2027 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Organizing Committee for Section on Sociology of Population,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Sociological Association meeting  
+2027 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Organizing Committee for Section on Aging and the Life Course,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Sociological Association meeting  
 2026 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chair, Outstanding Publication Award Committee,  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Sociological Association, Section on Aging and the Life Course  
 2026 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Committee, Distinguished Contribution to Scholarship in Population Award,  
@@ -523,7 +537,8 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Population Association of America meeting  
 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; President, Southern Demographic Association  
 2025–27 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Memorial Service Committee, Population Association of America  
-2024–27 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Dissertation Award Selection Committee, American Sociological Association  
+2024–27 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Dissertation Award Selection Committee (Chair in 2027), American Sociological  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association  
 2022–present &nbsp;Webmaster, Southern Demographic Association   
 2021–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Nominations Committee, Southern Sociological Society  
 2022–23 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Program Committee, Section on Sociology of Population, American Sociological  
@@ -536,7 +551,6 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 2016–18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Member, Board of Directors, Southern Demographic Association (three-year term)  
 
 \underline{Service to Discipline}  
-
 2026 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Roundtable Presider, “Health Disparities”  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Section on Sociology of Population, American Sociological Association meeting  
 2026 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Session Discussant, “Racial/Ethnic Inequalities in Mortality”  
@@ -619,13 +633,13 @@ Lariscy, Joseph T. “Latino Healthcare Coverage in an Emerging Gateway Southern
 
 | American Sociological Association, 2005–present  
 \setlength{\leftskip}{0.75cm}
-| *Sections:* Sociology of Population; Aging and the Life Course; Medical Sociology  
+| *Sections:* Sociology of Population; Aging and the Life Course  
 \setlength{\leftskip}{0cm}
 Population Association of America, 2008–present  
 Southern Demographic Association, 2006–present  
 Southern Sociological Society, 2007–present  
 
-&nbsp;
+\newpage
 
 # References
 
